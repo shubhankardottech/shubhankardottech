@@ -2,7 +2,7 @@
 <h3 align="center">A semi-nerd</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pepe-frog-meme-sad-watching-computer-llr03woqoqiuoeii.gif">
 
-- 👨‍💻 I’m currently working on **Inventory Management System**
+- 👨‍💻 I’m currently working on **Big Data** project
 
 - 🌱 I’m currently learning **Cloud Computing**
 
