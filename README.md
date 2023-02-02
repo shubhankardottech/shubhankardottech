@@ -8,7 +8,7 @@
 
 - 📧 Reach me at **shubhank4r@gmail.com**
 
-- ⚡ Fun fact **I am love to cook**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
